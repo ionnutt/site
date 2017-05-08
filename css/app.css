@@ -1,0 +1,19 @@
+.error {
+	position: relative;
+}
+
+.error input {
+	border-color: red;
+}
+
+.error label {
+	color: red;
+}
+
+.error span {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background: #ddd;
+	padding: 3px;
+}

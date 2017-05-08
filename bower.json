@@ -1,0 +1,21 @@
+{
+  "name": "bower.json",
+  "description": "\"\"",
+  "main": "index.js",
+  "authors": [
+    "ioana"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "[]"
+  ],
+  "homepage": "index.php",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
